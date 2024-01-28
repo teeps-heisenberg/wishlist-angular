@@ -20,6 +20,7 @@ export class WishListItemComponent {
 
   }
 
+
   get cssClasses() {
     // return this.fulfilled ? ['strike-out', 'text-muted'] : [];
     return {
